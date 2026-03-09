@@ -7,7 +7,8 @@ I am a 4rd-semester Informatics Engineering student at UIN Malang, passionate ab
 - 🛠️ Building **ZIANA-CBT-System** for interactive learning.
 
 ### 🛠️ Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/lar<img width="1500" height="500" alt="my header" src="https://github.com/user-attachments/assets/0d47b1e0-f1f4-42bc-94ae-ecabb132cf2a" />
+avel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
