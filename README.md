@@ -1,5 +1,5 @@
-# Hi, I'm Siti Alfinahur Salsabila 👋
 <img width="1500" height="500" alt="my header" src="https://github.com/user-attachments/assets/0d47b1e0-f1f4-42bc-94ae-ecabb132cf2a" />
+# Hi, I'm Siti Alfinahur Salsabila 👋
 avel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white
 
 I am a 4rd-semester Informatics Engineering student at UIN Malang, passionate about building web applications and exploring data insights.
