@@ -1,6 +1,6 @@
 # Hi, I'm Siti Alfinahur Salsabila 👋
 
-I am a 3rd-semester Informatics Engineering student at UIN Malang, passionate about building web applications and exploring data insights.
+I am a 4rd-semester Informatics Engineering student at UIN Malang, passionate about building web applications and exploring data insights.
 
 ### 🚀 What I'm working on:
 - 🌐 Web Development with **Laravel** & **Next.js**.
