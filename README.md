@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Siti Alfinahur Salsabila 👋
 
-<!--
-**sitialfinahursalsabila/sitialfinahursalsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-semester Informatics Engineering student at UIN Malang, passionate about building web applications and exploring data insights.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+- 🌐 Web Development with **Laravel** & **Next.js**.
+- 📊 Data Analysis using **Python** (Pandas, Plotly).
+- 🛠️ Building **ZIANA-CBT-System** for interactive learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📈 GitHub Stats:
+![Salsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
