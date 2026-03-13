@@ -21,29 +21,3 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Flowbite-black?style=for-the-badge&logo=flowbite&logoColor=blue" />
 </p>
-
----
-
-<div align="center">
-    <img width="300" src="./assets/main.gif" alt="coding-gif"/>
-    <br/>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Itim&size=35&duration=2500&pause=2000&color=E0DFF1&center=true&vCenter=true&width=600&height=50&lines=Greetings%2C+wanderer!;+I'm+Siti+Alfinahur+Salsabila!" alt="Typing SVG" />
-    </a>
-</div>
-
-### 📬 Connect with Me
-
-<div align="center">
-    <a href="https://www.instagram.com/USERNAME_IG_KAMU">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-</div>
-
-<br/>
-
-<div align="center">
-    <a href="./README.md">
-        <img src="https://img.shields.io/badge/README-ENG-fab387?style=flat-square&labelColor=1C2325" alt="English README">
-    </a>
-</div>
