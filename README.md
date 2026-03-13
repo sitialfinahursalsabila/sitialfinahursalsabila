@@ -36,7 +36,7 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 <a href="https://instagram.com/sa_elra" target="blank">
   <img src="https://img.shields.io/badge/Instagram-EAD8B1?style=flat-square&logo=instagram&logoColor=221B16" alt="Instagram" />
 </a>
-<a href="mailto:zkldn3285@gmail.com" target="blank">
+<a href="mailto:sitialfinahursalsabila@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-EAD8B1?style=flat-square&logo=gmail&logoColor=221B16" alt="Gmail" />
 </a>
 </p>
