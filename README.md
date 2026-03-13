@@ -32,15 +32,6 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 ---
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=radical&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=1a1b27&count_private=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=radical&hide_border=true&title_color=fe428e&text_color=a9fef7&bg_color=1a1b27&count_private=true" alt="top langs" height="165" />
-</p>
-
----
 
 ### 📫 Connect with Me
 <p align="left">
