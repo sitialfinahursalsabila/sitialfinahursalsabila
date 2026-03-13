@@ -20,10 +20,12 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 
 <p align="center">
   <marquee direction="left" scrollamount="10">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="60px">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="50" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="60px">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="50" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="60px">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/White%20Cat.png" width="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="50" />
   </marquee>
-</p>
+</p>>
