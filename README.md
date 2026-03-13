@@ -45,8 +45,8 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=radical&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=1a1b27" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=radical&hide_border=true&title_color=fe428e&text_color=a9fef7&bg_color=1a1b27" alt="top langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=tokyonight&hide_border=false&title_color=ff79c6&icon_color=8be9fd&text_color=bf91f3&bg_color=1a1b26" alt="stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=tokyonight&hide_border=false&title_color=ff79c6&text_color=bf91f3&bg_color=1a1b26" alt="top langs" height="180" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=sitialfinahursalsabila&color=fe428e&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=sitialfinahursalsabila&color=ff79c6&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
 
 <p align="right"><i>Generated with ❤️ by Siti</i></p>
