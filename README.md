@@ -22,18 +22,20 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 ---
 
 ### 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=radical&hide_border=true" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=radical&hide_border=true" alt="top langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=radical&hide_border=true" alt="top langs" height="165" />
 </p>
 
 ---
