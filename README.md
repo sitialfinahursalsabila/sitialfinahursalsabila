@@ -19,38 +19,11 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 
 
 <p align="center">
-  <marquee direction="right" scrollamount="8">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="50px">
+  <marquee direction="left" scrollamount="10">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="60px">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="60px">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="60px">
   </marquee>
 </p>
-<style>
-  .snake-container {
-    display: flex;
-    gap: 5px;
-  }
-  .dot {
-    width: 15px;
-    height: 15px;
-    background-color: #38B2AC; /* Warna Tailwind favoritmu */
-    border-radius: 50%;
-    animation: wave 1.2s infinite ease-in-out;
-  }
-  /* Efek delay biar kayak ular jalan */
-  .dot:nth-child(2) { animation-delay: 0.1s; }
-  .dot:nth-child(3) { animation-delay: 0.2s; }
-  .dot:nth-child(4) { animation-delay: 0.3s; }
-  .dot:nth-child(5) { animation-delay: 0.4s; }
-
-  @keyframes wave {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); background-color: #FF2D20; } /* Berubah ke warna Laravel */
-  }
-</style>
-
-<div class="snake-container">
-  <div class="dot"></div>
-  <div class="dot"></div>
-  <div class="dot"></div>
-  <div class="dot"></div>
-  <div class="dot"></div>
-</div>
