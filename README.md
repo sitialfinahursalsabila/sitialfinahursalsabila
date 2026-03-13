@@ -17,7 +17,7 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=for-the-badge\&logo=flowbite\&logoColor=blue)
 
-<div align="center">
+<div div align="center">
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
@@ -39,17 +39,3 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 <div align="center">
     <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
 </div>
-
-
-## 👻 Немного обо мне...
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DIMFLIX&data=followers,repositories,stars,commits&theme=dark)](https://github.com/DIMFLIX/github-widgetbox)
-
-Я - **Full-Stack & Software Engineer** с особым уклоном в творчество и инновации. Мои действия всегда направлены на достижение высоких результатов и качественное исполнение поставленных задач. В жизни руководствуюсь саморазвитием, никогда не стою на месте.
-
-[**Многократный победитель международных соревнований**](#diplomas). 
-Включён в **государственный реестр лиц с выдающимися способностями**.
-
-В настоящее время занимаюсь разработкой open-source проектов и периодически выполняю заказы на фрилансе. Специализируюсь на создании сайтов, приложений, ботов, нейросетей.
-
-На данный момент изучаю Rust для разработки высокопроизводительных приложений, а так-же машинное обучение и нейросети.
-
