@@ -17,15 +17,8 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=for-the-badge\&logo=flowbite\&logoColor=blue)
 
-
-<p align="center">
-  <marquee direction="left" scrollamount="10">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/White%20Cat.png" width="50" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="50" />
-  </marquee>
-</p>>
+<div align="center">
+  <img src="https://media.tenor.com/2p1T2bW_F0AAAAAi/cat-jump.gif" width="100" />
+  <img src="https://media.tenor.com/2p1T2bW_F0AAAAAi/cat-jump.gif" width="100" />
+  <img src="https://media.tenor.com/2p1T2bW_F0AAAAAi/cat-jump.gif" width="100" />
+</div>
