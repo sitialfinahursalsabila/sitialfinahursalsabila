@@ -35,3 +35,7 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
     <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=eba0ac&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=1C2325&style=for-the-badge"></a>
 </div>
+
+<div align="center">
+    <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
+</div>
