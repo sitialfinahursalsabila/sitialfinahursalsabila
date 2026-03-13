@@ -28,14 +28,22 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I am pass
 * 🛠️ **Tech Stack Focus:** Laravel, Next.js, MySQL, and Tailwind CSS.
 
 ---
+---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/sitialfinahursalsabila" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:emailanda@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 ---
 
 ### 🛠️ Tech Stack
@@ -66,9 +74,6 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I am pass
 <a href="mailto:emailanda@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</p>e=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
-
 ---
 
 ### 🐍 Contribution Graph
