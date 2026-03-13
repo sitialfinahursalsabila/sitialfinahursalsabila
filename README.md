@@ -17,8 +17,3 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=for-the-badge\&logo=flowbite\&logoColor=blue)
 
-<div align="center">
-  <img src="https://media.tenor.com/2p1T2bW_F0AAAAAi/cat-jump.gif" width="100" />
-  <img src="https://media.tenor.com/2p1T2bW_F0AAAAAi/cat-jump.gif" width="100" />
-  <img src="https://media.tenor.com/2p1T2bW_F0AAAAAi/cat-jump.gif" width="100" />
-</div>
