@@ -2,12 +2,12 @@
 
 <img width="100%" alt="my header" src="https://github.com/user-attachments/assets/0d47b1e0-f1f4-42bc-94ae-ecabb132cf2a" />
 
-### 🎓 Profile
-I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus on modern web development, creating scalable applications, and exploring data-driven solutions.
+### 🎓 About Me
+I'm an **Informatics Engineering student** at UIN Malang, currently in my **4th semester**. I have a big interest in how technology and design work together to create seamless web experiences. 
 
-* 🚀 **Currently Building:** [ZIANA-CBT-System](https://github.com/sitialfinahursalsabila) - An interactive learning platform.
-* 🛠️ **Technical Interests:** Full-stack Web Development, Database Management, and UI/UX Design.
-* 📚 **Education:** Informatics Engineering, Maulana Malik Ibrahim State Islamic University Malang.
+* 🚀 **Currently focused on:** Building [ZIANA-CBT-System](https://github.com/sitialfinahursalsabila) and refining [RanhardCode](https://github.com/sitialfinahursalsabila).
+* 🛠️ **In my element when:** Designing UI/UX in Figma or architecting back-end logic with Laravel.
+* 📚 **Currently learning:** Advanced English and refining my database optimization skills.
 
 ---
 ### 🛠️ Tech Stack
