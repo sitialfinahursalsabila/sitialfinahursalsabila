@@ -5,19 +5,9 @@
 ### 🎓 Profile
 I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus on modern web development, creating scalable applications, and exploring data-driven solutions.
 
-* 🚀 **Currently Building:** [RanhardCode](https://github.com/sitialfinahursalsabila) - A personal blog platform with an intuitive admin dashboard.
+* 🚀 **Currently Building:** [ZIANA-CBT-System](https://github.com/sitialfinahursalsabila) - An interactive learning platform.
 * 🛠️ **Technical Interests:** Full-stack Web Development, Database Management, and UI/UX Design.
 * 📚 **Education:** Informatics Engineering, Maulana Malik Ibrahim State Islamic University Malang.
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **RanhardCode** | Platform blog personal dengan dashboard admin intuitif & autentikasi aman. | ![Blade](https://img.shields.io/badge/-Blade-6F4E37?style=flat-square) ![Laravel](https://img.shields.io/badge/-Laravel-A67B5B?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila) |
-| **Habitify-task** | Aplikasi manajemen tugas untuk membangun kebiasaan positif secara terstruktur. | ![JS](https://img.shields.io/badge/-JavaScript-C19A6B?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-D2B48C?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila/Habitify-task) |
-| **ZIANA-CBT** | Sistem Computer Based Test (CBT) sederhana untuk manajemen ujian. | ![HTML](https://img.shields.io/badge/-HTML5-6F4E37?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-A67B5B?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila/ZIANA-CBT-System) |
 
 ---
 
@@ -25,27 +15,27 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-6F4E37?style=flat-square) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-A67B5B?style=flat-square) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-6F4E37?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-A67B5B?style=flat-square) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-C19A6B?style=flat-square) ![MariaDB](https://img.shields.io/badge/MariaDB-D2B48C?style=flat-square) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=flat-square&logo=flowbite&logoColor=blue) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=copper&hide_border=false" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=copper&hide_border=false" alt="top langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=radical&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=1a1b27" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=radical&hide_border=true&title_color=fe428e&text_color=a9fef7&bg_color=1a1b27" alt="top langs" height="165" />
 </p>
 
 ---
@@ -53,13 +43,11 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/sitialfinahursalsabila" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:zkldn3285@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Email-A67B5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:emailanda@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=sitialfinahursalsabila&color=6F4E37&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
 
 <p align="right"><i>Generated with ❤️ by Siti</i></p>
