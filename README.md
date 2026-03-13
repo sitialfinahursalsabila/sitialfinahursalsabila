@@ -16,3 +16,10 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=for-the-badge\&logo=flowbite\&logoColor=blue)
+
+
+<p align="center">
+  <marquee direction="right" scrollamount="8">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o72EX5QZ9N9d51dqE/giphy.gif" width="50px">
+  </marquee>
+</p>
