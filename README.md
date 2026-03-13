@@ -15,10 +15,10 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **RanhardCode** | Platform blog personal dengan dashboard admin intuitif & autentikasi aman. | ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila) |
-| **Habitify-task** | Aplikasi manajemen tugas untuk membangun kebiasaan positif secara terstruktur. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila/Habitify-task) |
-| **ZIANA-CBT** | Sistem Computer Based Test (CBT) sederhana untuk manajemen ujian. | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila/ZIANA-CBT-System) |
-| **Sci-Quiz-Hub** | Hub kuis interaktif untuk eksplorasi sains berbasis web. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Repo](https://github.com/sitialfinahursalsabila/sci-quiz-hub) |
+| **RanhardCode** | Platform blog personal dengan dashboard admin intuitif & autentikasi aman. | ![Blade](https://img.shields.io/badge/-Blade-6F4E37?style=flat-square) ![Laravel](https://img.shields.io/badge/-Laravel-A67B5B?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila) |
+| **Habitify-task** | Aplikasi manajemen tugas untuk membangun kebiasaan positif secara terstruktur. | ![JS](https://img.shields.io/badge/-JavaScript-C19A6B?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-D2B48C?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila/Habitify-task) |
+| **ZIANA-CBT** | Sistem Computer Based Test (CBT) sederhana untuk manajemen ujian. | ![HTML](https://img.shields.io/badge/-HTML5-6F4E37?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-A67B5B?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila/ZIANA-CBT-System) |
+| **Sci-Quiz-Hub** | Hub kuis interaktif untuk eksplorasi sains berbasis web. | ![JS](https://img.shields.io/badge/-JavaScript-C19A6B?style=flat-square) | [Repo](https://github.com/sitialfinahursalsabila/sci-quiz-hub) |
 
 ---
 
@@ -26,10 +26,10 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=flat-square&logo=flowbite&logoColor=blue) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-6F4E37?style=flat-square) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-A67B5B?style=flat-square) ![Flowbite](https://img.shields.io/badge/Flowbite-C19A6B?style=flat-square) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-6F4E37?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-A67B5B?style=flat-square) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-C19A6B?style=flat-square) ![MariaDB](https://img.shields.io/badge/MariaDB-D2B48C?style=flat-square) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-6F4E37?style=flat-square) ![Canva](https://img.shields.io/badge/Canva-A67B5B?style=flat-square) |
 
 ---
 
@@ -46,8 +46,8 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=tokyonight&hide_border=false&title_color=ff79c6&icon_color=8be9fd&text_color=bf91f3&bg_color=1a1b26" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=tokyonight&hide_border=false&title_color=ff79c6&text_color=bf91f3&bg_color=1a1b26" alt="top langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&title_color=6F4E37&icon_color=A67B5B&text_color=5C4033&bg_color=FDF5E6&hide_border=false" alt="stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&title_color=6F4E37&text_color=5C4033&bg_color=FDF5E6&hide_border=false" alt="top langs" height="180" />
 </p>
 
 ---
@@ -55,13 +55,11 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/sitialfinahursalsabila" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:zkldn3285@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-A67B5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=sitialfinahursalsabila&color=ff79c6&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=sitialfinahursalsabila&color=6F4E37&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
-
-<p align="right"><i>Generated with ❤️ by Siti</i></p>
