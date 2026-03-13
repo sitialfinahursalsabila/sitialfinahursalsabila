@@ -43,3 +43,27 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 <a href="https://linkedin.com/in/sitialfinahursalsabila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sitialfinahursalsabila" height="30" width="40" /></a>
 <a href="mailto:emailanda@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
+
+
+name: generate animation
+
+on:
+  # dijalankan otomatis setiap 24 jam
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # mengizinkan menjalankan manual kapan saja
+  workflow_dispatch:
+  
+  # dijalankan setiap ada push ke branch main
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
