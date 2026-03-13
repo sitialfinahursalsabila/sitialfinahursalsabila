@@ -17,11 +17,25 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=for-the-badge\&logo=flowbite\&logoColor=blue)
 
-### 🐍 Snakes & Ladders Board
-
-| 10 [🏆] | 9 | 8 [🐍] | 7 | 6 |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | 2 [🪜] | 3 | 4 | 5 |
-
-> **Cara Main:** Klik angka keberuntunganmu!
-> [ 1 ](https://github.com/sitialfinahursalsabila) [ 2 ](https://github.com/sitialfinahursalsabila/ZIANA-CBT-System) [ 3 ](https://github.com/sitialfinahursalsabila) [ 4 ](https://github.com/sitialfinahursalsabila) [ 5 ](https://github.com/sitialfinahursalsabila)
+<table align="center">
+  <tr>
+    <td align="center">
+      <kbd><b>SNAKE GAME LEVEL: INFORMATICS</b></kbd>
+      <br />
+      <br />
+      <marquee direction="up" scrollamount="3" height="100px">
+        <p align="center">
+          🏆 <br />
+          | <br />
+          🪜 <br />
+          | <br />
+          🐍 <br />
+          | <br />
+          🪜 <br />
+          | <br />
+          START
+        </p>
+      </marquee>
+    </td>
+  </tr>
+</table>
