@@ -10,16 +10,14 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 * 📚 **Education:** Informatics Engineering, Maulana Malik Ibrahim State Islamic University Malang.
 
 ---
-
 ### 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-EAD8B1?style=flat-square&logo=next.js&logoColor=221B16) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-A28B6A?style=flat-square&logo=tailwind-css&logoColor=221B16) ![Flowbite](https://img.shields.io/badge/Flowbite-EAD8B1?style=flat-square&logo=flowbite&logoColor=221B16) |
 | **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-8B6C4B?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-A28B6A?style=flat-square&logo=php&logoColor=221B16) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-EAD8B1?style=flat-square&logo=mysql&logoColor=221B16) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-EAD8B1?style=flat-square&logo=mysql&logoColor=221B16) ![MariaDB](https://img.shields.io/badge/MariaDB-A28B6A?style=flat-square&logo=mariadb&logoColor=221B16) |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-EAD8B1?style=flat-square&logo=figma&logoColor=221B16) |
-
 ---
 
 ### 🐍 Contribution Graph
