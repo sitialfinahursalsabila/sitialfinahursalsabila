@@ -45,25 +45,4 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 </p>
 
 
-name: generate animation
-
-on:
-  # dijalankan otomatis setiap 24 jam
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # mengizinkan menjalankan manual kapan saja
-  workflow_dispatch:
-  
-  # dijalankan setiap ada push ke branch main
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
     
