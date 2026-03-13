@@ -15,10 +15,10 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=flat-square&logo=flowbite&logoColor=blue) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=flat-square&logo=mysql&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-EAD8B1?style=flat-square&logo=next.js&logoColor=221B16) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-A28B6A?style=flat-square&logo=tailwind-css&logoColor=221B16) ![Flowbite](https://img.shields.io/badge/Flowbite-EAD8B1?style=flat-square&logo=flowbite&logoColor=221B16) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-8B6C4B?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-A28B6A?style=flat-square&logo=php&logoColor=221B16) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-EAD8B1?style=flat-square&logo=mysql&logoColor=221B16) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-EAD8B1?style=flat-square&logo=figma&logoColor=221B16) |
 
 ---
 
@@ -35,8 +35,8 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=radical&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=1a1b27&count_private=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=radical&hide_border=true&title_color=fe428e&text_color=a9fef7&bg_color=1a1b27&count_private=true" alt="top langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=calm&hide_border=true&title_color=EAD8B1&icon_color=A28B6A&text_color=EAD8B1&bg_color=221B16&count_private=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=calm&hide_border=true&title_color=EAD8B1&text_color=EAD8B1&bg_color=221B16&count_private=true" alt="top langs" height="165" />
 </p>
 
 ---
@@ -44,9 +44,9 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**. I focus o
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/sitialfinahursalsabila" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-EAD8B1?style=flat-square&logo=linkedin&logoColor=221B16" alt="LinkedIn" />
 </a>
 <a href="mailto:zkldn3285@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EAD8B1?style=flat-square&logo=gmail&logoColor=221B16" alt="Email" />
 </a>
 </p>
