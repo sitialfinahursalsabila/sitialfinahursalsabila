@@ -17,25 +17,3 @@ I am a **4th-semester Informatics Engineering student at UIN Malang**, passionat
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-black?style=for-the-badge\&logo=flowbite\&logoColor=blue)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <kbd><b>SNAKE GAME LEVEL: INFORMATICS</b></kbd>
-      <br />
-      <br />
-      <marquee direction="up" scrollamount="3" height="100px">
-        <p align="center">
-          🏆 <br />
-          | <br />
-          🪜 <br />
-          | <br />
-          🐍 <br />
-          | <br />
-          🪜 <br />
-          | <br />
-          START
-        </p>
-      </marquee>
-    </td>
-  </tr>
-</table>
