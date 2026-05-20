@@ -5,7 +5,7 @@
 ### 🎓 About Me
 I'm an **Informatics Engineering student** at UIN Malang, currently in my **4th semester**. I have a big interest in how technology and design work together to create seamless web experiences. 
 
-* 🚀 **Currently focused on:** Building [ZIANA-CBT-System](https://github.com/sitialfinahursalsabila) and refining [RanhardCode](https://github.com/sitialfinahursalsabila).
+- 🚀 **Currently focused on:** Building [Smart Learning LMS](https://github.com/sitialfinahursalsabila/lms-frontend) and refining [RanhardCode](https://github.com/sitialfinahursalsabila/RanhardCode).
 * 🛠️ **In my element when:** Designing UI/UX in Figma or architecting back-end logic with Laravel.
 * 📚 **Currently learning:** Advanced English and refining my database optimization skills.
 
