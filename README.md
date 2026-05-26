@@ -28,18 +28,12 @@ I'm an **Informatics Engineering student** at UIN Malang, currently in my **4th 
 
 
 
-| Category | Tools & Technologies |
-
-| :--- | :--- |
-
+| Category   | Tools & Technologies |
+|-----------|----------------------|
 | **Frontend** | [![React.js](https://img.shields.io/badge/React.js-EAD8B1?style=flat-square&logo=react&logoColor=221B16)](https://reactjs.org) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-A28B6A?style=flat-square&logo=tailwind-css&logoColor=221B16)](https://tailwindcss.com) [![Vite](https://img.shields.io/badge/Vite-EAD8B1?style=flat-square&logo=vite&logoColor=221B16)](https://vitejs.dev) |
-
 | **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-8B6C4B?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-A28B6A?style=flat-square&logo=php&logoColor=221B16) |
-
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-EAD8B1?style=flat-square&logo=mysql&logoColor=221B16) ![MariaDB](https://img.shields.io/badge/MariaDB-A28B6A?style=flat-square&logo=mariadb&logoColor=221B16) |
-
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-EAD8B1?style=flat-square&logo=figma&logoColor=221B16) |
-
 ---
 
 
