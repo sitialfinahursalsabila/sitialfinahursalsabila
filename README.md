@@ -45,19 +45,9 @@ I'm an **Informatics Engineering student** at UIN Malang, currently in my **4th 
 
 
 ### 🐍 Contribution Graph
-
+### 🐍 Contribution Graph
 <p align="center">
-
-  <picture>
-
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake-dark.svg?color_snake=8B6C4B&color_dots=bf91f3,A28B6A,8B6C4B,6F4E37,3E2723">
-
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg?color_snake=8B6C4B&color_dots=ebedf0,D2B48C,A28B6A,8B6C4B,6F4E37">
-
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg" width="100%">
-
-  </picture>
-
+  <img src="https://raw.githubusercontent.com/sitialfinahursalsabila/sitialfinahursalsabila/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
 
 
