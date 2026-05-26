@@ -47,7 +47,14 @@ I'm an **Informatics Engineering student** at UIN Malang, currently in my **4th 
 
 ---
 
+### 💡 Fun Facts About Me
 
+- 🎯 I fix bugs faster after I ignore them for 10 minutes
+- 🧠 I understand code… after I explain it to myself 3 times
+- 🎨 I enjoy making UI “feel alive”, not just functional
+- 💤 “Sleep early” is my biggest lie to myself
+
+---
 
 ### 📫 Connect with Me
 
