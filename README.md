@@ -4,11 +4,7 @@
 
 ### 🎓 About Me
 I'm an **Informatics Engineering student** at UIN Malang, currently in my **4th semester**. I have a big interest in how technology and design work together to create seamless web experiences. 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitialfinahursalsabila&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitialfinahursalsabila&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
-</p>
+
 
 - 🚀 **Currently focused on:** Building [Smart Learning LMS](https://github.com/sitialfinahursalsabila/lms-frontend) and refining [RanhardCode](https://github.com/sitialfinahursalsabila/RanhardCode).
 * 🛠️ **In my element when:** Designing UI/UX in Figma or architecting back-end logic with Laravel.
